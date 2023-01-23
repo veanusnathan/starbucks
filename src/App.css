@@ -1,0 +1,21 @@
+@import url(//db.onlinewebfonts.com/c/d7e8a95865396cddca89b00080d2cba6?family=SoDo+Sans+SemiBold);
+
+:root {
+	--my-font: "SoDo Sans SemiBold";
+	--my-pbg: #00754a;
+	--my-sbg: #f1f8f6;
+	--my-ptc: #212121;
+	--my-fc: #006241;
+}
+
+.my-bg {
+	background: var(--my-pbg);
+}
+
+.my-sbg {
+	background: var(--my-sbg);
+}
+
+.my-fc {
+	color: var(--my-fc);
+}
